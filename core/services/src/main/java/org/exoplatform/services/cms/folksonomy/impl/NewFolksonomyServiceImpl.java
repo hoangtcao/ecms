@@ -811,10 +811,8 @@ public class NewFolksonomyServiceImpl implements NewFolksonomyService, Startable
    */
   public void addTagPermission(String usersOrGroups) {
     List<String> _tagPermissionList = tagPermissionList.get(TAG_PERMISSION_LIST);
-    if(_tagPermissionList==null) _tagPermissionList = new ArrayList<String>();
-    if (!_tagPermissionList.contains(usersOrGroups))
-      _tagPermissionList.add(usersOrGroups);
-    tagPermissionList.put(TAG_PERMISSION_LIST, _tagPermissionList);
+    if (_tagPermissionList!=null && !_tagPermissionList.contains(usersOrGroups))
+      tagPermissionList.get(TAG_PERMISSION_LIST).add(usersOrGroups);
   }
 
   /**
@@ -822,8 +820,9 @@ public class NewFolksonomyServiceImpl implements NewFolksonomyService, Startable
    */
   public void removeTagPermission(String usersOrGroups) {
     List<String> _tagPermissionList = tagPermissionList.get(TAG_PERMISSION_LIST);
-    _tagPermissionList.remove(usersOrGroups);
-    tagPermissionList.put(TAG_PERMISSION_LIST, _tagPermissionList);
+    if(_tagPermissionList!=null && _tagPermissionList.contains(usersOrGroups)) {
+      tagPermissionList.get(TAG_PERMISSION_LIST).remove(usersOrGroups);
+    }
   }
 
   /**

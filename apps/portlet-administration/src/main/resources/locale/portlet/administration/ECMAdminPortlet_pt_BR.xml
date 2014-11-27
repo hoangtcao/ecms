@@ -2113,7 +2113,7 @@
       <Delete>Excluir</Delete>
     </title>
 <label>
-  <permission>{0}' in '{1}</permission>
+  <permission>{0} em {1}</permission>
 </label>
   </UIViewContainer>
   <ECMTemplate>

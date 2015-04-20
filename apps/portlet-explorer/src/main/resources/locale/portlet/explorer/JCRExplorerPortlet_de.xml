@@ -254,6 +254,7 @@
       <UISelectRestorePath>Wiederherstellungspfad auswählen</UISelectRestorePath>
       <UISEOForm>SEO verwalten</UISEOForm>
       <UISEOToolbarForm>SEO verwalten</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Arbeitsbereich</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>Das Pflichtelement jcr:uuid wurde nicht gefunden. Vielleicht wurde der Knoten gelöscht oder geändert. Bitte klicken Sie auf Aktualisieren.</constraintviolation-exception>
       <path-not-found-exception>Dieser Knoten wurde gelöscht oder geändert. Bitte klicken Sie auf die Schaltfläche "aktualisieren".</path-not-found-exception>
       <not-exist-categories>Diese Kategorie ist nicht vorhanden.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Daten ersetzen</ReplaceData>
       <Back>Zurück zu Umbenennen</Back>
       <Keepfile>Beide Dateien behalten</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

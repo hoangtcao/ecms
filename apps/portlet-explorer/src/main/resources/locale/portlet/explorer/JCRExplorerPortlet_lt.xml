@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Galite suplanuoti savo dokumento paskelbimą. Pasirinkite datas kada norite matyti savo dokumentą paskelbtą</introduction>
       <no-schedule-info>Nėra jokio paskelbimo grafiko jūsų dokumentui</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Jūsų naujas paskelbimo grafikas buvo sėkmingai išsaugotas.</save-finished>

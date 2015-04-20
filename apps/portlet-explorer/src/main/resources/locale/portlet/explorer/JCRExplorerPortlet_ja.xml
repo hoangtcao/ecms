@@ -2985,6 +2985,8 @@
     <label>
       <introduction>ドキュメントの発行スケジュールを設定することができます。公開日付を選択してください。</introduction>
       <no-schedule-info>ドキュメントの公開スケジュールはありません。</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>新しいパブリケーション スケジュールは正常に保存されました。</save-finished>

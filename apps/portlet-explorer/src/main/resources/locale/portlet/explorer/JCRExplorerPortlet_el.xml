@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Μπορείτε να προγραμματίσετε τη δημοσίευση του εγγράφου σας. Επιλέξτε τις ημερομηνίες που θα θέλατε να δημοσιεύσετε το έγγραφο</introduction>
       <no-schedule-info>Δεν υπάρχει κανένα χρονοδιάγραμμα δημοσίευσης για το έγγραφό σας</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Το χρονοδιάγραμμα δημοσίευσης αποθηκεύτηκε επιτυχώς.</save-finished>

@@ -202,8 +202,15 @@
     <msg>
       <time-to-late>Arama süresi çok uzun.</time-to-late>
       <empty-field>Lütfen arama için  geçerli bir anahtar kelime girin.</empty-field>
+      <empty-name>Please input Name for search</empty-name>
+      <empty-content>Please input Word or Phrase for search</empty-content>
+      <empty-property>Please select a property</empty-property>
+      <empty-property-keyword>Please input a keyword for property</empty-property-keyword>
+      <empty-doctype>Please select a document type</empty-doctype>
+      <empty-startDate>"From Date" is required</empty-startDate>
       <invalid-format>'{0}' Alanda geçersiz tarih/saat biçimindedir.</invalid-format>
       <invalid-date>""Bitiş Tarihi" "Başlangıç Tarihinden" sonra olmalıdır"</invalid-date>
+      <invalid-startDate>"From Date" must not be later than today</invalid-startDate>
       <invalid-nodeType>Düğüm türü "{0}" geçersiz. Lütfen tekrar kontrol edin.</invalid-nodeType>
       <invalid-keyword>Anahtar geçersiz. Bazı karakterler desteklenmez.</invalid-keyword>
     </msg>

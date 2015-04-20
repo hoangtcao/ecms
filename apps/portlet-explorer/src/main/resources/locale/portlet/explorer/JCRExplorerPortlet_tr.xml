@@ -254,6 +254,7 @@
       <UISelectRestorePath>Geri yükleme yolunu seçin</UISelectRestorePath>
       <UISEOForm>SEO' yu yönet</UISEOForm>
       <UISEOToolbarForm>SEO' yu yönet</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Çalışma Alanı</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>Zorunlu öğe jcr:uuid bulunamadı. Düğüm silinmiş veya değiştirmiş. Lütfen Yenile düğmesini tıklatın.</constraintviolation-exception>
       <path-not-found-exception>Bu öğe silinmiş veya değişmiş. Lütfen Yenile düğmesini tıklatın.</path-not-found-exception>
       <not-exist-categories>Kategori yok.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Verileri Değiştir</ReplaceData>
       <Back>Yeniden Adlandırma için Geri</Back>
       <Keepfile>İki dosyayı da tut</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

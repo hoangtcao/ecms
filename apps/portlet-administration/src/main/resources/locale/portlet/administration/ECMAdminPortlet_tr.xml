@@ -988,6 +988,8 @@
       <publicationPublish>Yayımla</publicationPublish>
 <contentNavigation>İçerik Gezinti</contentNavigation>
 <addSymLink>Sembolik link ekle</addSymLink>
+      <checkIn>Check In</checkIn>
+      <checkOut>Check Out</checkOut>
     </label>
     <action>
       <Save>#{word.save}</Save>      

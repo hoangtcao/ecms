@@ -988,6 +988,8 @@
       <publicationPublish>Xuất bản</publicationPublish>
 <contentNavigation>Điều hướng theo nội dung</contentNavigation>
 <addSymLink>Thêm liên kết</addSymLink>
+      <checkIn>Check In</checkIn>
+      <checkOut>Check Out</checkOut>
     </label>
     <action>
       <Save>#{word.save}</Save>      

@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Du kan schemalägga publiceringen av dokumentet. Välj de datum som du vill se dokumentet publiceras</introduction>
       <no-schedule-info>Det finns ingen Utgivningsplan för dokumentet</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Din nya utgivningsplan har sparats.</save-finished>

@@ -2985,6 +2985,8 @@
     <label>
       <introduction>يُمكنك برمجة عمليّة نشر ملفّك. حدد التواريخ التي تود أن يُنشَر خلالها الملفّ.</introduction>
       <no-schedule-info>لا توجد أي برمجة لنشر الملفّ الخاص بك</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>تمّ حفظ برمجة عمليّة النّشر الخاصة بك بنجاح.</save-finished>

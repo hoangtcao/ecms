@@ -2985,6 +2985,8 @@
     <label>
       <introduction>È possibile pianificare la pubblicazione del documento. Seleziona il giorno che vi piacerebbe che il documento sia pubblicato</introduction>
       <no-schedule-info>Non c'è nessun planificazione di pubblicazione per il suo documento</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Il vostro nuovo programma di pubblicazione è stato salvato con successo.</save-finished>

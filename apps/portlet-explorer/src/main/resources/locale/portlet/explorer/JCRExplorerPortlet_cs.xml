@@ -254,6 +254,7 @@
       <UISelectRestorePath>Vybrat místo obnovení</UISelectRestorePath>
       <UISEOForm>Správa SEO</UISEOForm>
       <UISEOToolbarForm>Správa SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Pracovní plocha</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>Povinná položka Jcr:uuid nebyla nalezena. Uzel byl odstraněn nebo změněn. Prosím klikněte na tlačítko Obnovit.</constraintviolation-exception>
       <path-not-found-exception>Tento uzel byl odstraněn nebo změněn. Prosím klikněte na tlačítko Obnovit.</path-not-found-exception>
       <not-exist-categories>Kategorie neexistuje.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Nahradit data</ReplaceData>
       <Back>Zpět na přejmenování</Back>
       <Keepfile>Ponechat oba soubory</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

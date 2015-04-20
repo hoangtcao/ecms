@@ -254,6 +254,7 @@
       <UISelectRestorePath>选择恢复路径</UISelectRestorePath>
       <UISEOForm>管理 SEO</UISEOForm>
       <UISEOToolbarForm>管理 SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>工作区</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>找不到强制性项目 jcr:uuid。该节点可能已删除或更改。请单击刷新按钮。</constraintviolation-exception>
       <path-not-found-exception>此节点已被删除或更改。请单击刷新按钮。</path-not-found-exception>
       <not-exist-categories>该类别不存在。</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>替换数据</ReplaceData>
       <Back>返回重命名</Back>
       <Keepfile>保持这两个文件</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

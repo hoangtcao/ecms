@@ -254,6 +254,7 @@
       <UISelectRestorePath>انتخاب مسیر بازیابی</UISelectRestorePath>
       <UISEOForm>مدیریت جستجوگرها</UISEOForm>
       <UISEOToolbarForm>مدیریت جستجوگرها</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>فضای کار</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>آیتم اجباری Jcr:uuid پیدا شد. گره تغییر داده یا حذف شده است. لطفاً روی دکمه تازه سازی کلیک کنید.</constraintviolation-exception>
       <path-not-found-exception>این اِلمان حذف و یا تغییر کرده است. لطفاً روی دکمه تازه سازی کلیک کنید.</path-not-found-exception>
       <not-exist-categories>دسته وجود ندارد.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>جایگزین کردن داده ها</ReplaceData>
       <Back>بازگشت به تغییر نام</Back>
       <Keepfile>هر دو پرونده حفظ شود</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

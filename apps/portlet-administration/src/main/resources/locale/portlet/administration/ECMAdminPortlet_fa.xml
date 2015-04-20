@@ -988,6 +988,8 @@
       <publicationPublish>انتشار</publicationPublish>
 <contentNavigation>هدایت محتوا</contentNavigation>
 <addSymLink>افزودن Symlink</addSymLink>
+      <checkIn>Check In</checkIn>
+      <checkOut>Check Out</checkOut>
     </label>
     <action>
       <Save>#{word.save}</Save>      

@@ -988,6 +988,8 @@
       <publicationPublish>Publicar</publicationPublish>
 <contentNavigation>Navegación de contenido</contentNavigation>
 <addSymLink>Agregar Symlink</addSymLink>
+      <checkIn>Check In</checkIn>
+      <checkOut>Check Out</checkOut>
     </label>
     <action>
       <Save>#{word.save}</Save>      

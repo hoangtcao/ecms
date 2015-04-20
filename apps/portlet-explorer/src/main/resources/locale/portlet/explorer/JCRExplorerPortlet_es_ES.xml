@@ -254,6 +254,7 @@
       <UISelectRestorePath>Seleccionar Ruta de Restauración</UISelectRestorePath>
       <UISEOForm>Administrar SEO</UISEOForm>
       <UISEOToolbarForm>Administrar SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Espacio de Trabajo</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>El elemento obligatorio jcr : uuid no fué encontrado.  Quizás el nodo fué eliminado o cambiado.  Por favor pulse en el botón de actualizar.</constraintviolation-exception>
       <path-not-found-exception>Este nodo fue eliminado o cambiado. Por favor haga clic en el botón de Actualizar.</path-not-found-exception>
       <not-exist-categories>La categoría no existe.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Reemplazar la data</ReplaceData>
       <Back>Regresar al cambio de nombre</Back>
       <Keepfile>Guardar ambos archivos</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

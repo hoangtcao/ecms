@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Belge yayınını zamanlayabilirsiniz. Yayınlanan belgenizi görmek istiyorsanız tarihleri seçin</introduction>
       <no-schedule-info>Belgeniz için hiçbir yayın zamanlaması yok</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Senin yeni yayın zamanlaması başarıyla kaydedildi.</save-finished>

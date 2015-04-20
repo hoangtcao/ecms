@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Você pode agendar a publicação do seu documento. Selecione as datas que você gostaria de ver seu documento publicado</introduction>
       <no-schedule-info>Não há nenhuma agenda de publicação para o seu documento</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Seu novo horário de publicação foi salvo com sucesso.</save-finished>

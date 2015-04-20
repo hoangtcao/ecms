@@ -42,7 +42,10 @@
     <view>
       <label>
         <not-viewable>crwdns6793281:0crwdne6793281:0</not-viewable>
+        <pdf-max-size>The preview is not available for content larger than {0} MB.</pdf-max-size>
+        <pdf-max-page>The preview is not available for content with over {0} pages.</pdf-max-page>
         <using-webDAV>crwdns6793282:0crwdne6793282:0</using-webDAV>
+        <open-on-desktop>Open on Desktop</open-on-desktop>
         <file-size-too-big>crwdns6793283:0crwdne6793283:0</file-size-too-big>
         <webDAV>crwdns6793284:0crwdne6793284:0</webDAV>
         <download>crwdns6793285:0crwdne6793285:0</download>

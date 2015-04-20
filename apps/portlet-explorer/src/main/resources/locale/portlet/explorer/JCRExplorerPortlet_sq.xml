@@ -254,6 +254,7 @@
       <UISelectRestorePath>crwdns6790385:0crwdne6790385:0</UISelectRestorePath>
       <UISEOForm>crwdns6790386:0crwdne6790386:0</UISEOForm>
       <UISEOToolbarForm>crwdns6790387:0crwdne6790387:0</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>crwdns6790388:0crwdne6790388:0</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>crwdns6790501:0crwdne6790501:0</constraintviolation-exception>
       <path-not-found-exception>crwdns6790502:0crwdne6790502:0</path-not-found-exception>
       <not-exist-categories>crwdns6790503:0crwdne6790503:0</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>crwdns6791414:0crwdne6791414:0</ReplaceData>
       <Back>crwdns6791415:0crwdne6791415:0</Back>
       <Keepfile>crwdns6791416:0crwdne6791416:0</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

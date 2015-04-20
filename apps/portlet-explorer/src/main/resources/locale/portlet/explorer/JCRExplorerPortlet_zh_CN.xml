@@ -2985,6 +2985,8 @@
     <label>
       <introduction>你可以安排您的文档的发布。选择你想看到您发布的文档的日期</introduction>
       <no-schedule-info>您的文档没有发布时间表</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>您新的发布时间表已成功保存。</save-finished>

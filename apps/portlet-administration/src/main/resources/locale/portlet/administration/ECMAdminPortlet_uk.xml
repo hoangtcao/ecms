@@ -988,6 +988,8 @@
       <publicationPublish>Публікувати</publicationPublish>
 <contentNavigation>Навігація по вмісту</contentNavigation>
 <addSymLink>Додати символьне посилання</addSymLink>
+      <checkIn>Check In</checkIn>
+      <checkOut>Check Out</checkOut>
     </label>
     <action>
       <Save>#{word.save}</Save>      

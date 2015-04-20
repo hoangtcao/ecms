@@ -254,6 +254,7 @@
       <UISelectRestorePath>Виділіть шлях відновлення</UISelectRestorePath>
       <UISEOForm>Керувати SEO</UISEOForm>
       <UISEOToolbarForm>Керувати SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Робоча область</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>Jcr:uuid обов'язковий елемент не знайдено. Можливо вузол було видалено або змінено. Будь ласка, натисніть кнопку Оновити.</constraintviolation-exception>
       <path-not-found-exception>Цей вузол видалено або змінено. Будь ласка, натисніть кнопку Оновити.</path-not-found-exception>
       <not-exist-categories>Категорії не існує.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Замінити дані</ReplaceData>
       <Back>Повернутися до Перейменувати</Back>
       <Keepfile>Зберегти обидва файли</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

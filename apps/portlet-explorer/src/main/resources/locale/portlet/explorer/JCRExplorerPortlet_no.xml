@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Du kan planlegge publiseringen av dokumentet ditt. Velg datoen du ønsker at dokumentet skal bli publisert</introduction>
       <no-schedule-info>Det er ingen planlagt publisering for dokumentet ditt</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Den planlagte publiseringen har blitt lagret.</save-finished>

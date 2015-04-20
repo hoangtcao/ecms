@@ -254,6 +254,7 @@
       <UISelectRestorePath>リストアパスの選択</UISelectRestorePath>
       <UISEOForm>SEO を管理</UISEOForm>
       <UISEOToolbarForm>SEO を管理</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>ワークスペース</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>必須アイテム jcr:uuid は見つかりません。削除されたか変更されたノードかもしれません。リフレッシュボタンをクリックしてください。</constraintviolation-exception>
       <path-not-found-exception>このノードは削除もしくは変更されました。リフレッシュボタンをクリックしてください。</path-not-found-exception>
       <not-exist-categories>カテゴリは存在しません。</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>置き換えデータ</ReplaceData>
       <Back>リネームに戻る</Back>
       <Keepfile>両方のファイルをキープする</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

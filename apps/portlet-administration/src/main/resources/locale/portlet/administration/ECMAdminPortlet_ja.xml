@@ -988,6 +988,8 @@
       <publicationPublish>公開</publicationPublish>
 <contentNavigation>コンテンツ ナビゲーション</contentNavigation>
 <addSymLink>Symリンクの追加</addSymLink>
+      <checkIn>Check In</checkIn>
+      <checkOut>Check Out</checkOut>
     </label>
     <action>
       <Save>#{word.save}</Save>      

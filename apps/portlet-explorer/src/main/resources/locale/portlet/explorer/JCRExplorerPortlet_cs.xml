@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Můžete naplánovat zveřejnění dokumentu. Vyberte data, kdy byste rádi viděli váš dokument zveřejněn</introduction>
       <no-schedule-info>Pro váš dokument neexistuje žádné naplánované zveřejnění</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Nový plán zveřejnění byl úspěšně uložen.</save-finished>

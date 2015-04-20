@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Вы можете запланировать публикацию вашего документа. Выберите даты, в которые вы хотели бы опубликовать ваш документ</introduction>
       <no-schedule-info>Нет графика публикации для вашего документа</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Ваш новый график публикации успешно сохранен.</save-finished>

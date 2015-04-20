@@ -254,6 +254,7 @@
       <UISelectRestorePath>Velg gjenopprettings sti</UISelectRestorePath>
       <UISEOForm>Administrere SEO</UISEOForm>
       <UISEOToolbarForm>Administrere SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Arbeidsområde</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>Finner ikke det obligatorisk element jcr:uuid. Noden kan ha blitt slettet eller endret. Klikk Oppdater-knappen.</constraintviolation-exception>
       <path-not-found-exception>Denne noden ble slettet eller endret. Klikk Oppdater-knappen.</path-not-found-exception>
       <not-exist-categories>Kategorien finnes ikke.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Erstatt data</ReplaceData>
       <Back>Tilbake til Gi nytt navn</Back>
       <Keepfile>Behold begge filene</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

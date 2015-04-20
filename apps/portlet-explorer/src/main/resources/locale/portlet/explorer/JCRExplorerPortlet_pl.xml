@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Można zaplanować publikację dokumentu. Wybierz datę, z jaką chcesz opublikować dokument</introduction>
       <no-schedule-info>Nie ma harmonogramu publikacji dla tego dokumentu</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Nowy harmonogram publikacji został zapisany pomyślnie.</save-finished>

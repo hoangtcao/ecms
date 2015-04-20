@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Puede programar la publicación del documento. Seleccione la fecha que le gustaría ver el documento publicado</introduction>
       <no-schedule-info>No hay fecha de publicación para el documento</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Su nueva fecha de publicación se ha guardado correctamente.</save-finished>

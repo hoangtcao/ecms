@@ -2985,6 +2985,8 @@
     <label>
       <introduction>crwdns6791596:0crwdne6791596:0</introduction>
       <no-schedule-info>crwdns6791597:0crwdne6791597:0</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>crwdns6791598:0crwdne6791598:0</save-finished>

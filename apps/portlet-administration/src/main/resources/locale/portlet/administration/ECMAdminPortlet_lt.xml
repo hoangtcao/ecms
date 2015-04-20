@@ -988,6 +988,8 @@
       <publicationPublish>Paskelbti</publicationPublish>
 <contentNavigation>Turinio navigacija</contentNavigation>
 <addSymLink>Pridėti nuorodą</addSymLink>
+      <checkIn>Check In</checkIn>
+      <checkOut>Check Out</checkOut>
     </label>
     <action>
       <Save>#{word.save}</Save>      

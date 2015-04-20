@@ -254,6 +254,7 @@
       <UISelectRestorePath>Pasirinkite atkūrimo kelią</UISelectRestorePath>
       <UISEOForm>Valdyti SEO</UISEOForm>
       <UISEOToolbarForm>Valdyti SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Darbo sritis</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>Privalomas elementas jcr:uuid nerastas. Mazgas gali būti ištrintas arba pakeistas. Spustelėkite mygtuką atnaujinti.</constraintviolation-exception>
       <path-not-found-exception>Šis mazgas buvo ištrintas arba pakeistas. Spustelėkite mygtuką atnaujinti.</path-not-found-exception>
       <not-exist-categories>Kategorija neegzistuoja.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Pakeisti duomenis</ReplaceData>
       <Back>Atgal į pervadinimą</Back>
       <Keepfile>Palikti abu failus</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

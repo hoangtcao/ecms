@@ -254,6 +254,7 @@
       <UISelectRestorePath>Wybierz ścieżkę przywracania</UISelectRestorePath>
       <UISEOForm>Zarządzaj SEO</UISEOForm>
       <UISEOToolbarForm>Zarządzaj SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Przestrzeń robocza</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>Obowiązkowa pozycja jcr: UUID nie została znaleziona. Węzeł mógł zostać usunięty lub zmieniony. Kliknij przycisk Odśwież.</constraintviolation-exception>
       <path-not-found-exception>Ten węzeł został usunięty lub zmieniony. Kliknij przycisk Odśwież.</path-not-found-exception>
       <not-exist-categories>Kategoria nie istnieje.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Zamiana danych</ReplaceData>
       <Back>Powrót do zmiany nazwy</Back>
       <Keepfile>Zatrzymaj oba pliki</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

@@ -2985,6 +2985,8 @@
     <label>
       <introduction>شما می توانید برای انتشار سند خود زمانبندی کنید. تاریخ های مورد نظر خود را برای زمان انتشار سند انتخاب نمایید</introduction>
       <no-schedule-info>هیچ زمانبندی برای انتشار سند شما وجود ندارد</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>زمانبندی انتشار شما با موفقیت ذخیره شد.</save-finished>

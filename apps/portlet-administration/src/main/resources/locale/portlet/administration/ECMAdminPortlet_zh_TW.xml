@@ -988,6 +988,8 @@
       <publicationPublish>發佈</publicationPublish>
 <contentNavigation>內容導航</contentNavigation>
 <addSymLink>增加符號連結</addSymLink>
+      <checkIn>Check In</checkIn>
+      <checkOut>Check Out</checkOut>
     </label>
     <action>
       <Save>#{word.save}</Save>      

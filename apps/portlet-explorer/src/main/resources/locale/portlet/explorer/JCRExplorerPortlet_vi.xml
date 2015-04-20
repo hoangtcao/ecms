@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Bạn có thể đặt lich trình công bố tài liệu của bạn bằng cách chọn ngày bạn muốn tài liệu của bạn được xuất bản.</introduction>
       <no-schedule-info>Không có lịch trình xuất bản nào cho tài liệu của bạn.</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Lịch trình xuất bản mới của bạn đã được lưu thành công.</save-finished>

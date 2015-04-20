@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Aveţi posibilitatea să programaţi publicarea documentului. Selectaţi data pe care doriţi să vedeţi documentul publicat</introduction>
       <no-schedule-info>Nu există nici un program de publicare pentru document</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>Noul program de publicare a fost salvat cu succes.</save-finished>

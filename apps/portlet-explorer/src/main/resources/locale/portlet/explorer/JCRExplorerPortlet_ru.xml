@@ -254,6 +254,7 @@
       <UISelectRestorePath>Выберите путь восстановления</UISelectRestorePath>
       <UISEOForm>Управление SEO</UISEOForm>
       <UISEOToolbarForm>Управление SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Рабочая область</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>Не был найден обязательный элемент jcr:uuid. Возможно узел был удален или изменен. Нажмите кнопку Обновить.</constraintviolation-exception>
       <path-not-found-exception>Этот узел был удален или изменен. Пожалуйста, нажмите кнопку Обновить.</path-not-found-exception>
       <not-exist-categories>Указанная категория не существует.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Заменить данные</ReplaceData>
       <Back>Вернуться к переименованию</Back>
       <Keepfile>Сохранить оба файла</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

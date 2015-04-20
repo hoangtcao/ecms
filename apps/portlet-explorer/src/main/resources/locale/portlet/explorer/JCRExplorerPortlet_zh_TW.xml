@@ -2985,6 +2985,8 @@
     <label>
       <introduction>你可以安排您的文件發佈。選擇你想看到您發佈的文件日期</introduction>
       <no-schedule-info>沒有為您的文件發佈時程表</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>您新的發佈排程已成功保存。</save-finished>

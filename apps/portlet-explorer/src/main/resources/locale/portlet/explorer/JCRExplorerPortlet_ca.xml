@@ -2985,6 +2985,8 @@
     <label>
       <introduction>Pot planificar la publicació del document. Selecciona la data que desitja veure el document publicat</introduction>
       <no-schedule-info>No hi ha cap calendari de publicació pel document</no-schedule-info>
+      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>El seu nou calendari de publicació s'ha desat correctament.</save-finished>

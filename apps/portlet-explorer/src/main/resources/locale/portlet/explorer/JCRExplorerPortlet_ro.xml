@@ -254,6 +254,7 @@
       <UISelectRestorePath>Selectaţi calea pentru restabilire</UISelectRestorePath>
       <UISEOForm>Gestionați SEO</UISEOForm>
       <UISEOToolbarForm>Gestionați SEO</UISEOToolbarForm>
+      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>Spațiu de lucru</workspace>
@@ -400,6 +401,7 @@
       <constraintviolation-exception>JCR: nu găsește uuid. Modulul a fost șters sau modificat. Vă rugăm apăsați Refresh.</constraintviolation-exception>
       <path-not-found-exception>Acest element a fost șters sau modificat. Vă rugăm să faceți clic pe butonul de reîmprospătare.</path-not-found-exception>
       <not-exist-categories>Categoria nu există.</not-exist-categories>
+      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -2420,6 +2422,8 @@
       <ReplaceData>Înlocuiţi datele</ReplaceData>
       <Back>Înapoi la Redenumire</Back>
       <Keepfile>Păstrează ambele fişiere</Keepfile>
+<ReadOnly>Open Read-only</ReadOnly>
+<Cancel>Cancel</Cancel>
     </label>
   </UIConfirmMessage>
 

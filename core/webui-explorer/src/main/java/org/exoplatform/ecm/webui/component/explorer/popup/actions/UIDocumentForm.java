@@ -98,8 +98,8 @@ import org.exoplatform.webui.form.UIFormMultiValueInputSet;
     @EventConfig(listeners = UIDialogForm.AddActionListener.class, phase = Phase.DECODE),
     @EventConfig(listeners = UIFormMultiValueInputSet.RemoveActionListener.class, phase = Phase.DECODE) }),
     @ComponentConfig(lifecycle = UIFormLifecycle.class, events = {
-      @EventConfig(listeners = UIDocumentForm.SaveActionListener.class),
-      @EventConfig(listeners = UIDocumentForm.SaveAndCloseActionListener.class),
+      @EventConfig(listeners = UIDocumentForm.SaveActionListener.class, phase = Phase.DECODE),
+      @EventConfig(listeners = UIDocumentForm.SaveAndCloseActionListener.class, phase = Phase.DECODE),
       @EventConfig(listeners = UIDocumentForm.CloseActionListener.class, phase = Phase.DECODE),
       @EventConfig(listeners = UIDocumentForm.ChangeTypeActionListener.class, phase = Phase.DECODE),
       @EventConfig(listeners = UIDocumentForm.AddActionListener.class, phase = Phase.DECODE),

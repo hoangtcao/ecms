@@ -2423,7 +2423,7 @@
       <Back>Atgal į pervadinimą</Back>
       <Keepfile>Palikti abu failus</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>Atšaukti</Cancel>
     </label>
   </UIConfirmMessage>
 

@@ -2423,7 +2423,7 @@
       <Back>Retour à Renommer</Back>
 	    <Keepfile>Gardez les deux fichiers</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>Annuler</Cancel>
     </label>
 	</UIConfirmMessage>
 

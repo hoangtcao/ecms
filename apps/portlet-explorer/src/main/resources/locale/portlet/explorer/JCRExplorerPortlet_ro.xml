@@ -2423,7 +2423,7 @@
       <Back>Înapoi la Redenumire</Back>
       <Keepfile>Păstrează ambele fişiere</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>Renunță</Cancel>
     </label>
   </UIConfirmMessage>
 

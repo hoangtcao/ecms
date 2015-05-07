@@ -2423,7 +2423,7 @@
       <Back>リネームに戻る</Back>
       <Keepfile>両方のファイルをキープする</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>キャンセル</Cancel>
     </label>
   </UIConfirmMessage>
 

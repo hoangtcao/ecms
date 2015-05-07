@@ -2423,7 +2423,7 @@
       <Back>返回重命名</Back>
       <Keepfile>保持这两个文件</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>取消</Cancel>
     </label>
   </UIConfirmMessage>
 

@@ -2423,7 +2423,7 @@
       <Back>Regresar al cambio de nombre</Back>
       <Keepfile>Guardar ambos archivos</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>Cancelar</Cancel>
     </label>
   </UIConfirmMessage>
 

@@ -2423,7 +2423,7 @@
       <Back>Yeniden Adlandırma için Geri</Back>
       <Keepfile>İki dosyayı da tut</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>İptal</Cancel>
     </label>
   </UIConfirmMessage>
 

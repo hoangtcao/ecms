@@ -2423,7 +2423,7 @@
       <Back>بازگشت به تغییر نام</Back>
       <Keepfile>هر دو پرونده حفظ شود</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>انصراف</Cancel>
     </label>
   </UIConfirmMessage>
 

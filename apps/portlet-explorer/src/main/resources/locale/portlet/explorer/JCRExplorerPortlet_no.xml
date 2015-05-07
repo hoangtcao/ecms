@@ -2423,7 +2423,7 @@
       <Back>Tilbake til Gi nytt navn</Back>
       <Keepfile>Behold begge filene</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>Avbryt</Cancel>
     </label>
   </UIConfirmMessage>
 

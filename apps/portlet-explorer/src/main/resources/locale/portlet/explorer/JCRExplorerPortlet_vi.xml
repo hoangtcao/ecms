@@ -2423,7 +2423,7 @@
       <Back>Quay lại đổi tên</Back>
       <Keepfile>Giữ cả hai tệp</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>Hủy bỏ</Cancel>
     </label>
   </UIConfirmMessage>
 

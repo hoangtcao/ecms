@@ -2423,7 +2423,7 @@
       <Back>Вернуться к переименованию</Back>
       <Keepfile>Сохранить оба файла</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>Отмена</Cancel>
     </label>
   </UIConfirmMessage>
 

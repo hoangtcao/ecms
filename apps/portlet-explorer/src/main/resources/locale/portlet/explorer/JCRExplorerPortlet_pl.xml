@@ -2423,7 +2423,7 @@
       <Back>Powrót do zmiany nazwy</Back>
       <Keepfile>Zatrzymaj oba pliki</Keepfile>
 <ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<Cancel>Anuluj</Cancel>
     </label>
   </UIConfirmMessage>
 
@@ -3154,7 +3154,7 @@
     <or>lub</or>
     <AlreadyInUse>Obecnie w użyciu</AlreadyInUse>
     <Keep>Zachowaj oba</Keep>
-    <Replace>Zastąp</Replace>
+    <Replace>Zamień</Replace>
     <Canceled>Anulowane</Canceled>
     <Cancel>#{word.cancel}</Cancel>
     <AbortAllConfirmation>Czy chcesz, aby przerwać wszystkie pliki w toku?</AbortAllConfirmation>

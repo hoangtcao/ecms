@@ -30,7 +30,7 @@
         <comment-by>crwdns6793278:0crwdne6793278:0</comment-by>
         <email>crwdns6793279:0crwdne6793279:0</email>
         <site>crwdns6793280:0crwdne6793280:0</site>
-        <lastComment>Last comment posted by {user} at {time}</lastComment>
+        <lastComment>crwdns6812366:0{user}crwdnd6812366:0{time}crwdne6812366:0</lastComment>
       </label>
     </view>
   </Comment>
@@ -42,10 +42,10 @@
     <view>
       <label>
         <not-viewable>crwdns6793281:0crwdne6793281:0</not-viewable>
-        <pdf-max-size>The preview is not available for content larger than {0} MB.</pdf-max-size>
-        <pdf-max-page>The preview is not available for content with over {0} pages.</pdf-max-page>
+        <pdf-max-size>crwdns6812367:0{0}crwdne6812367:0</pdf-max-size>
+        <pdf-max-page>crwdns6812368:0{0}crwdne6812368:0</pdf-max-page>
         <using-webDAV>crwdns6793282:0crwdne6793282:0</using-webDAV>
-        <open-on-desktop>Open on Desktop</open-on-desktop>
+        <open-on-desktop>crwdns6812369:0crwdne6812369:0</open-on-desktop>
         <file-size-too-big>crwdns6793283:0crwdne6793283:0</file-size-too-big>
         <webDAV>crwdns6793284:0crwdne6793284:0</webDAV>
         <download>crwdns6793285:0crwdne6793285:0</download>

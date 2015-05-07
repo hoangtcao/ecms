@@ -254,7 +254,7 @@
       <UISelectRestorePath>crwdns6790385:0crwdne6790385:0</UISelectRestorePath>
       <UISEOForm>crwdns6790386:0crwdne6790386:0</UISEOForm>
       <UISEOToolbarForm>crwdns6790387:0crwdne6790387:0</UISEOToolbarForm>
-      <UIReadOnlyFileConfirmMessage>Open Document</UIReadOnlyFileConfirmMessage>
+      <UIReadOnlyFileConfirmMessage>crwdns6812342:0crwdne6812342:0</UIReadOnlyFileConfirmMessage>
     </title>
     <header>
       <workspace>crwdns6790388:0crwdne6790388:0</workspace>
@@ -401,7 +401,7 @@
       <constraintviolation-exception>crwdns6790501:0crwdne6790501:0</constraintviolation-exception>
       <path-not-found-exception>crwdns6790502:0crwdne6790502:0</path-not-found-exception>
       <not-exist-categories>crwdns6790503:0crwdne6790503:0</not-exist-categories>
-      <lock-node-read-only>This file is locked by user {0}. Open read-only ?</lock-node-read-only>
+      <lock-node-read-only>crwdns6812343:0{0}crwdne6812343:0</lock-node-read-only>
     </msg>
   </UIPopupMenu>
   <!--
@@ -1491,7 +1491,7 @@
       <import-successful>crwdns6791092:0crwdne6791092:0</import-successful>
       <filename-invalid>crwdns6791093:0crwdne6791093:0</filename-invalid>
       <filetype-error>crwdns6791094:0crwdne6791094:0</filetype-error>
-      <xml-invalid>There is an invalid character at position [row, column]:{0} in {1} file</xml-invalid>
+      <xml-invalid>crwdns6812344:0{0}crwdnd6812344:0{1}crwdne6812344:0</xml-invalid>
       <mimetype-invalid>crwdns6791095:0crwdne6791095:0</mimetype-invalid>
       <access-denied>crwdns6791096:0crwdne6791096:0</access-denied>
       <constraint-violation-exception>crwdns6791097:0{0}crwdne6791097:0</constraint-violation-exception>
@@ -2422,8 +2422,8 @@
       <ReplaceData>crwdns6791414:0crwdne6791414:0</ReplaceData>
       <Back>crwdns6791415:0crwdne6791415:0</Back>
       <Keepfile>crwdns6791416:0crwdne6791416:0</Keepfile>
-<ReadOnly>Open Read-only</ReadOnly>
-<Cancel>Cancel</Cancel>
+<ReadOnly>crwdns6812345:0crwdne6812345:0</ReadOnly>
+<Cancel>crwdns6812346:0crwdne6812346:0</Cancel>
     </label>
   </UIConfirmMessage>
 
@@ -2982,15 +2982,15 @@
       <user>crwdns6791594:0crwdne6791594:0</user>
       <description>crwdns6791595:0crwdne6791595:0</description>
     </header>
-    <create-version>New version is created</create-version>
+    <create-version>crwdns6812347:0crwdne6812347:0</create-version>
   </UIPublicationHistory>
   
   <UIPublicationSchedule>
     <label>
       <introduction>crwdns6791596:0crwdne6791596:0</introduction>
       <no-schedule-info>crwdns6791597:0crwdne6791597:0</no-schedule-info>
-      <UIPublicationPanelStartDateInput>Start Publication date</UIPublicationPanelStartDateInput>
-      <UIPublicationPanelEndDateInput>End Publication date</UIPublicationPanelEndDateInput>
+      <UIPublicationPanelStartDateInput>crwdns6812348:0crwdne6812348:0</UIPublicationPanelStartDateInput>
+      <UIPublicationPanelEndDateInput>crwdns6812349:0crwdne6812349:0</UIPublicationPanelEndDateInput>
     </label>
     <msg>
       <save-finished>crwdns6791598:0crwdne6791598:0</save-finished>

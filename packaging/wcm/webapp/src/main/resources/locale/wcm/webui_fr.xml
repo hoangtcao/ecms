@@ -202,10 +202,10 @@
     <msg>
       <time-to-late>Le temps de recherche est trop long.</time-to-late>
       <empty-field>La valeur de ce champ est nulle ou vide!</empty-field>
-      <empty-name>Please input Name for search</empty-name>
-      <empty-content>Please input Word or Phrase for search</empty-content>
+      <empty-name>Please enter the name to search</empty-name>
+      <empty-content>Please enter a word or phrase to search</empty-content>
       <empty-property>Please select a property</empty-property>
-      <empty-property-keyword>Please input a keyword for property</empty-property-keyword>
+      <empty-property-keyword>Please enter a keyword for the property</empty-property-keyword>
       <empty-doctype>Please select a document type</empty-doctype>
       <empty-startDate>"From Date" is required</empty-startDate>
       <invalid-format>Blancs datetime format dans le champ '{0}'</invalid-format>

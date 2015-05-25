@@ -202,10 +202,10 @@
     <msg>
       <time-to-late>Задовгий час пошуку.</time-to-late>
       <empty-field>Будь ласка, введіть припустиме ключове слово для пошуку.</empty-field>
-      <empty-name>Please input Name for search</empty-name>
-      <empty-content>Please input Word or Phrase for search</empty-content>
+      <empty-name>Please enter the name to search</empty-name>
+      <empty-content>Please enter a word or phrase to search</empty-content>
       <empty-property>Please select a property</empty-property>
-      <empty-property-keyword>Please input a keyword for property</empty-property-keyword>
+      <empty-property-keyword>Please enter a keyword for the property</empty-property-keyword>
       <empty-doctype>Please select a document type</empty-doctype>
       <empty-startDate>"From Date" is required</empty-startDate>
       <invalid-format>Неприпустимий формат дата/час у поля "{0}".</invalid-format>

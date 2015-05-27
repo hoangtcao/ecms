@@ -594,6 +594,8 @@
       <RestoreFromTrash>Recuperar del zafacón</RestoreFromTrash>
       <EmptyTrash>Vaciar zafacón</EmptyTrash>
       <WebDavView>Abrir en MS Office</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

@@ -594,6 +594,8 @@
       <RestoreFromTrash>Restaurer</RestoreFromTrash>
       <EmptyTrash>Supprimer</EmptyTrash>
       <WebDavView>Ouvrir dans MS Office</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

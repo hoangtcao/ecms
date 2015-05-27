@@ -594,6 +594,8 @@
       <RestoreFromTrash>Restaurar da Lixeira</RestoreFromTrash>
       <EmptyTrash>Esvaziar a lixeira</EmptyTrash>
       <WebDavView>Abrir no MS Office</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

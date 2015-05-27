@@ -594,6 +594,8 @@
       <RestoreFromTrash>Obnovit z koše</RestoreFromTrash>
       <EmptyTrash>Vysypat koš</EmptyTrash>
       <WebDavView>Otevřít v MS Office</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

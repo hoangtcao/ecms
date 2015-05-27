@@ -594,6 +594,8 @@
       <RestoreFromTrash>بازیابی از سطل زباله</RestoreFromTrash>
       <EmptyTrash>خالی کردن سطل زباله</EmptyTrash>
       <WebDavView>Download and allow edition</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

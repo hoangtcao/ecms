@@ -594,6 +594,8 @@
       <RestoreFromTrash>從垃圾桶中還原</RestoreFromTrash>
       <EmptyTrash>清空垃圾桶</EmptyTrash>
       <WebDavView>在 MS Office 中打開</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

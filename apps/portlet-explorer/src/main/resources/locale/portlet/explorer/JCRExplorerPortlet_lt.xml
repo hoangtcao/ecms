@@ -594,6 +594,8 @@
       <RestoreFromTrash>Atkurti iš šiukšliadėžės</RestoreFromTrash>
       <EmptyTrash>Išvalyti šiukšliadėžę</EmptyTrash>
       <WebDavView>Atidaryti su MS Office</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

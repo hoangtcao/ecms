@@ -594,6 +594,8 @@
       <RestoreFromTrash>crwdns6790624:0crwdne6790624:0</RestoreFromTrash>
       <EmptyTrash>crwdns6790625:0crwdne6790625:0</EmptyTrash>
       <WebDavView>crwdns6790626:0crwdne6790626:0</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

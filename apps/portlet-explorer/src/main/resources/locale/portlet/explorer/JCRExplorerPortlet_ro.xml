@@ -594,6 +594,8 @@
       <RestoreFromTrash>Restaurează de la gunoi</RestoreFromTrash>
       <EmptyTrash>Golește gunoiul</EmptyTrash>
       <WebDavView>Descărcaţi şi permiteți adăugarea</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

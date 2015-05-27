@@ -594,6 +594,8 @@
       <RestoreFromTrash>Aus dem Papierkorb wiederherstellen</RestoreFromTrash>
       <EmptyTrash>Papierkorb leeren</EmptyTrash>
       <WebDavView>Open in MS Office</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

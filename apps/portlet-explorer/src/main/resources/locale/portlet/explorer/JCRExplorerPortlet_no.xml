@@ -594,6 +594,8 @@
       <RestoreFromTrash>Gjenopprett fra papirkurven</RestoreFromTrash>
       <EmptyTrash>Tøm papirkurven</EmptyTrash>
       <WebDavView>Open in MS Office</WebDavView>
+      <Download>Download</Download>
+      <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
  

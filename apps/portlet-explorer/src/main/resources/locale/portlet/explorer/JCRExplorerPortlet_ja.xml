@@ -594,7 +594,7 @@
       <RestoreFromTrash>ゴミ箱からリストア</RestoreFromTrash>
       <EmptyTrash>ゴミ箱を空にする</EmptyTrash>
       <WebDavView>Open in MS Office</WebDavView>
-      <Download>Download</Download>
+      <Download>ファイルをダウンロード</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

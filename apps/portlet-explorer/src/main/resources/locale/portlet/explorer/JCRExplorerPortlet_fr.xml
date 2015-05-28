@@ -594,7 +594,7 @@
       <RestoreFromTrash>Restaurer</RestoreFromTrash>
       <EmptyTrash>Supprimer</EmptyTrash>
       <WebDavView>Ouvrir dans MS Office</WebDavView>
-      <Download>Download</Download>
+      <Download>Télécharger</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>
@@ -1997,7 +1997,7 @@
     <label>
       <published>Publié</published>
       <non-published>Non publié</non-published>
-      <public>Oui</public>
+      <public>Public</public>
       <private>Privé</private>
       <state>Etat</state>
       <visibility>Visibilité</visibility>
@@ -2752,7 +2752,7 @@
 
    <UITaggingForm>
     <label>
-      <Public>Oui</Public>
+      <Public>Public</Public>
       <Private>Privé</Private>
       <tagScopes>Portée des Tags</tagScopes>
     </label>

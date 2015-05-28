@@ -397,7 +397,7 @@
       <GeneralDrives>Lecteurs Principaux</GeneralDrives>
       <GroupDrives>Lecteurs de Groupe</GroupDrives>
       <Private>Privé</Private>
-      <Public>Oui</Public>
+      <Public>Public</Public>
       <BackupCenter>Centre de Sauvegarde</BackupCenter>
       <CategorizedDocumentsCenter>Centre Document des Catégories</CategorizedDocumentsCenter>
       <CollaborationCenter>Centre de Collaboration</CollaborationCenter>

@@ -594,7 +594,7 @@
       <RestoreFromTrash>Çöp kutusundan geri yükleyin</RestoreFromTrash>
       <EmptyTrash>Çöpü Boşalt</EmptyTrash>
       <WebDavView>MS Office de Aç</WebDavView>
-      <Download>Download</Download>
+      <Download>İndir</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

@@ -594,7 +594,7 @@
       <RestoreFromTrash>Ripristina dal Cestino</RestoreFromTrash>
       <EmptyTrash>Svuota Cestino</EmptyTrash>
       <WebDavView>Open in MS Office</WebDavView>
-      <Download>Download</Download>
+      <Download>Scarica</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

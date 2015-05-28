@@ -594,7 +594,7 @@
       <RestoreFromTrash>Przywróć z kosza</RestoreFromTrash>
       <EmptyTrash>Opróżnij kosz</EmptyTrash>
       <WebDavView>Download and allow edition</WebDavView>
-      <Download>Download</Download>
+      <Download>Pobierz</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

@@ -594,7 +594,7 @@
       <RestoreFromTrash>Återställ från papperskorgen</RestoreFromTrash>
       <EmptyTrash>Töm papperskorgen</EmptyTrash>
       <WebDavView>Open in MS Office</WebDavView>
-      <Download>Download</Download>
+      <Download>Ladda ner</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

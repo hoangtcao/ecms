@@ -41,7 +41,7 @@
     </label>
     <button>
       <label>
-        <confirm>Ok</confirm>
+        <confirm>OK</confirm>
       </label>
     </button>
     <msg>
@@ -594,7 +594,7 @@
       <RestoreFromTrash>Restaurar da Lixeira</RestoreFromTrash>
       <EmptyTrash>Esvaziar a lixeira</EmptyTrash>
       <WebDavView>Abrir no MS Office</WebDavView>
-      <Download>Download</Download>
+      <Download>Baixar</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

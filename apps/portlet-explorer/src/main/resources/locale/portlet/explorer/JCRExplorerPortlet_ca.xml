@@ -594,7 +594,7 @@
       <RestoreFromTrash>Recupera de la Paperera</RestoreFromTrash>
       <EmptyTrash>Buida la Paperera</EmptyTrash>
       <WebDavView>Obre-ho a MS Office</WebDavView>
-      <Download>Download</Download>
+      <Download>Descarrega</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

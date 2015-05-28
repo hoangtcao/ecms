@@ -594,7 +594,7 @@
       <RestoreFromTrash>Επαναφορά από κάδο</RestoreFromTrash>
       <EmptyTrash>Άδειασμα κάδου διαγραμμένων</EmptyTrash>
       <WebDavView>Άνοιγμα στο Office</WebDavView>
-      <Download>Download</Download>
+      <Download>Μεταφόρτωση</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

@@ -594,7 +594,7 @@
       <RestoreFromTrash>Відновлення з кошика</RestoreFromTrash>
       <EmptyTrash>Очистити Кошик</EmptyTrash>
       <WebDavView>Відкрити в MS Office</WebDavView>
-      <Download>Download</Download>
+      <Download>Завантажити</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

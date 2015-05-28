@@ -594,7 +594,7 @@
       <RestoreFromTrash>Восстановить из корзины</RestoreFromTrash>
       <EmptyTrash>Очистить Корзину</EmptyTrash>
       <WebDavView>Открыть в MS Office</WebDavView>
-      <Download>Download</Download>
+      <Download>Загрузить</Download>
       <OpenDocument>Remote Edit</OpenDocument>
     </event>
   </ECMContextMenu>

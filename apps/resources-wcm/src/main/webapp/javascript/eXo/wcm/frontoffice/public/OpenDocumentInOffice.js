@@ -144,10 +144,8 @@
    */
   OpenDocumentInOffice.prototype.EditDocument = function(path){
     var obj = new ActiveXObject('SharePoint.OpenDocuments.3');
-    var word = new ActiveXObject("Word.Application");
-    var allowVersion = word.Version >= "14.0";
-    if(allowVersion){
-      var openStatus = obj.EditDocument(path, word.Version);
+    if(checkMSOfficeVersion()){
+      var openStatus = obj.EditDocument(path);
       console.log("Open Document status: "+openStatus);
     }else{
       console.log("Open document not support!");
@@ -218,7 +216,9 @@
   function checkMSOfficeVersion(){
     try{
       var word = new ActiveXObject("Word.Application");
-      return word.Version >= "14.0";
+      var version = word.Version;
+      word.Quit();
+      return version >= "14.0";
     }catch(err){
       console.log("ActiveX is not support \n"+err);
       return false;
